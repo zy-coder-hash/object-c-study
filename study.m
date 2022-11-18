@@ -9,13 +9,13 @@
 	double _weight; // 人的体重
 }
 // 声明一个唱歌的方法，可以被对象调用
-- （void） SingTheSong; //不能在类的定义里写函数的实现。
+- (void) SingTheSong; //不能在类的定义里写函数的实现。
 //声明在类里面的函数就是方法
 @end
 
 // 函数的实现
 @implementation Person
-- （void）SingTheSong{
+- (void)SingTheSong{
 	NSLog();
 	printf("人在唱歌");
 }
