@@ -1,4 +1,4 @@
-#include <Foundation/Foundation.h>
+#import <Foundation/Foundation.h>
 
 //[主语(对象或者类调用函数) 函数]
 // -号方法是对象调用， +号方法是类调用
