@@ -5,7 +5,7 @@ struct Student{
     int age;
 };
 
-int int main(int argc, char const *argv[])
+int main(int argc, char const *argv[])
 {
     @autoreleasepool{
         struct Student s1 = {
