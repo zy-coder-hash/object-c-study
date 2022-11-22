@@ -1,5 +1,5 @@
 typedef int NSInteger;
-typedef int NSString;
-@interface NSLogx:NSObject
--(void) NSLog;
+typedef char NSString;
+@interface NSLog:NSObject
+-(void) NSLog:(NSString*) str;
 @end
